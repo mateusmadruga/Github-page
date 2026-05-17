@@ -1,6 +1,16 @@
 # Github-page
 Nesta área estou desenvolvendo o portifólio pessoal e profissional do bootcamp I na etapa intermediária.
-O principal objetivo é apresentar os meus projetos pessoais e futuramente profissionais. teste
+O principal objetivo é apresentar os meus projetos pessoais e futuramente profissionais. 
+
+Competências e conhecimentos:
+C++ (Básico)
+Java(Básico)
+Inglês Intermediário
+
+
+Cursos e Workshops:
+Fundamentos do Hardware do Computador - Cisco Networking Academy - Em andamento
+Workshop Java - 16/03/2026 a 01/04/2026
 
 Currículo Docs:
 https://docs.google.com/document/d/1jwB5n-i_D2WpYw9Jynxofg2bChli8dLMcLXoHHmGnRg/edit?usp=sharing
