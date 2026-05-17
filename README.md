@@ -3,8 +3,8 @@ Nesta área estou desenvolvendo o portifólio pessoal e profissional do bootcamp
 O principal objetivo é apresentar os meus projetos pessoais e futuramente profissionais. 
 
 Competências e conhecimentos:
-C++ (Básico)
-Java(Básico)
+C (Básico),
+Java(Básico),
 Inglês Intermediário
 
 
