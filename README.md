@@ -1,6 +1,6 @@
 # Github-page
 Nesta área estou desenvolvendo o portifólio pessoal e profissional do bootcamp I na etapa intermediária.
-O principal objetivo é apresentar os meus projetos pessoais e futuramente profissionais.
+O principal objetivo é apresentar os meus projetos pessoais e futuramente profissionais. teste
 
 Currículo Docs:
 https://docs.google.com/document/d/1jwB5n-i_D2WpYw9Jynxofg2bChli8dLMcLXoHHmGnRg/edit?usp=sharing
