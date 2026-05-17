@@ -12,6 +12,8 @@ Cursos e Workshops:
 Fundamentos do Hardware do Computador - Cisco Networking Academy - Em andamento
 Workshop Java - 16/03/2026 a 01/04/2026
 
+Projetos: Ainda não possuo nenhum projeto 
+
 Currículo Docs:
 https://docs.google.com/document/d/1jwB5n-i_D2WpYw9Jynxofg2bChli8dLMcLXoHHmGnRg/edit?usp=sharing
 Currículo Slides: 
