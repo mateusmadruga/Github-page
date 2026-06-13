@@ -9,7 +9,7 @@ Inglês Intermediário
 
 
 Cursos e Workshops:
-Fundamentos do Hardware do Computador - Cisco Networking Academy - Em andamento
+Fundamentos do Hardware do Computador - Cisco Networking Academy 
 Workshop Java - 16/03/2026 a 01/04/2026
 
 Projetos: Ainda não possuo nenhum projeto 
