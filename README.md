@@ -24,3 +24,5 @@ https://sites.google.com/view/mateus-madruga/p%C3%A1gina-inicial
 
 LinkedIn: 
 https://www.linkedin.com/in/mateus-gusmão-14370240b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Plano de implantação: https://docs.google.com/document/d/1gnRB4X01SKnIyBYi4G-TtqKaDbtjFZch1BRZ-ATTEio/edit?usp=sharing
